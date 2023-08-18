@@ -1,4 +1,4 @@
-# Customer-Segmentation
+# Market-Segmentation
 Data
 For the purpose of data collection, the Online Retail dataset available from UCI Machine Learning repository was utilized. This dataset comprises transactional records spanning from December 1st, 2010 to December 9th, 2011, capturing the transactions of a Europe-based online retail platform. Each row within the dataset represents a distinct transaction event. The dataset encompasses essential transaction details such as product names, quantities, prices, and distinctive identification columns. For analytical purposes, a subset of 10000 rows was thoughtfully sampled, thereby being regarded as a representative subset of the entirety of customer transactions.
 
